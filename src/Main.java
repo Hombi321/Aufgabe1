@@ -1,7 +1,10 @@
 import java.util.Vector;
 
 public class Main {
-
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         Vector <Fahrzeug> fahrzeuge = new Vector<Fahrzeug>();
 
