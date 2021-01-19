@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dabc368-e27b-4022-bd80-9349a56d8806" name="Default Changelist" comment="" />
+    <list default="true" id="7dabc368-e27b-4022-bd80-9349a56d8806" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +84,7 @@
       <workItem from="1611066522406" duration="1142000" />
       <workItem from="1611068504097" duration="109000" />
       <workItem from="1611068636649" duration="716000" />
-      <workItem from="1611069358534" duration="34000" />
+      <workItem from="1611069358534" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="updated .gitignore">
       <created>1611068901200</created>
@@ -126,22 +128,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1186" y="242" key="Github.UntrackedFilesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1611068694914" />
-    <state width="1234" height="281" key="GridCell.Tab.0.bottom" timestamp="1611067665094">
+    <state width="1234" height="278" key="GridCell.Tab.0.bottom" timestamp="1611069410309">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="281" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1611067665094" />
-    <state width="1234" height="281" key="GridCell.Tab.0.center" timestamp="1611067665094">
+    <state width="1234" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1611069410309" />
+    <state width="1234" height="278" key="GridCell.Tab.0.center" timestamp="1611069410309">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="281" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1611067665094" />
-    <state width="1234" height="281" key="GridCell.Tab.0.left" timestamp="1611067665094">
+    <state width="1234" height="278" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1611069410309" />
+    <state width="1234" height="278" key="GridCell.Tab.0.left" timestamp="1611069410309">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="281" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1611067665094" />
-    <state width="1234" height="281" key="GridCell.Tab.0.right" timestamp="1611067665094">
+    <state width="1234" height="278" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1611069410309" />
+    <state width="1234" height="278" key="GridCell.Tab.0.right" timestamp="1611069410309">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="281" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1611067665094" />
+    <state width="1234" height="278" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1611069410309" />
     <state x="1400" y="94" key="SettingsEditor" timestamp="1611069391975">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
