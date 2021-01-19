@@ -11,7 +11,6 @@ public class Boot extends Fahrzeug {
     }
 
     /**
-     *
      * @param percent anzahl Prozent, auf welche das Boot beschleunigt.
      */
     @Override
